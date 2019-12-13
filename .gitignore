@@ -1,0 +1,4 @@
+db.sqlite
+Pipfile.lock
+Pipfile
+__pycache__
